@@ -1,1 +1,0 @@
-cmd_/home/bhumi/Desktop/linuxdrivers/cmd_line_param/cmdline_arg.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/bhumi/Desktop/linuxdrivers/cmd_line_param/cmdline_arg.ko /home/bhumi/Desktop/linuxdrivers/cmd_line_param/cmdline_arg.o /home/bhumi/Desktop/linuxdrivers/cmd_line_param/cmdline_arg.mod.o
