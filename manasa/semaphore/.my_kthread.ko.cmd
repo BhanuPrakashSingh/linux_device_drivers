@@ -1,0 +1,1 @@
+cmd_/home/bhomi/kernel_programming/semaphore/my_kthread.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/bhomi/kernel_programming/semaphore/my_kthread.ko /home/bhomi/kernel_programming/semaphore/my_kthread.o /home/bhomi/kernel_programming/semaphore/my_kthread.mod.o ;  true
