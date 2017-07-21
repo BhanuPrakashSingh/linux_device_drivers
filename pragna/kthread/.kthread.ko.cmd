@@ -1,0 +1,1 @@
+cmd_/home/bhumi/Desktop/concurrency/kthread/kthread.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/bhumi/Desktop/concurrency/kthread/kthread.ko /home/bhumi/Desktop/concurrency/kthread/kthread.o /home/bhumi/Desktop/concurrency/kthread/kthread.mod.o
