@@ -1,4 +1,0 @@
-make -C /lib/modules/4.2.0-27-generic/build M=/home/bhumi/Desktop/linuxdrivers/cmd_line_param modules
-make[1]: Entering directory `/usr/src/linux-headers-4.2.0-27-generic'
-  CC [M]  /home/bhumi/Desktop/linuxdrivers/cmd_line_param/cmdline_arg.o
-make[1]: Leaving directory `/usr/src/linux-headers-4.2.0-27-generic'
