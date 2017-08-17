@@ -1,1 +1,0 @@
-cmd_/home/bhomi/linux_device_drivers/inter_module1/intermodule1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/bhomi/linux_device_drivers/inter_module1/intermodule1.ko /home/bhomi/linux_device_drivers/inter_module1/intermodule1.o /home/bhomi/linux_device_drivers/inter_module1/intermodule1.mod.o
